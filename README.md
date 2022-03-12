@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashablinski >>> Nice to meet you!
-- 👀 I’m interested in >>> Python Programming and Machine Learning.
-- 🌱 I’m currently learning >>> computational thinking, linear algebra, deep neural nets.
+- 👀 I’m interested in >>> Data Engineering and Machine Learning
+- 🌱 I’m currently learning >>> time-series analysis @ migrations.ml
 - 💞️ I’m looking to collaborate on >>> anything and everything!
 - 📫 How to reach me >>> art.shablinski@gmail.com
 
